@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blazor.Todo.KovalenkoMA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0025fbfb9cdd4661cccde9c6976d4d6698c90db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abcf9247b147f1af4c6a6cdef64a5b58c710bd1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blazor.Todo.KovalenkoMA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blazor.Todo.KovalenkoMA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
